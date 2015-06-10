@@ -1,0 +1,25 @@
+{
+  "name": "uotila",
+  "version": "0.0.1",
+  "description": "The greatest place on earth!",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/villeristi/uotila.git"
+  },
+  "keywords": [
+    ":)"
+  ],
+  "author": "Wille",
+  "license": "ISC",
+  "homepage": "https://github.com/villeristi/uotila",
+  "preferGlobal": true,
+  "bin": {
+    "uotila": "uotila.js"
+  },
+  "dependencies": {
+    "say": "^0.6.0"
+  }
+}
